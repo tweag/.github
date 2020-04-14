@@ -11,7 +11,7 @@ tested and confirmed that the issue is resolved, close the issue. If
 you are not a member of the project, you will be asked for
 confirmation and we will close it.
 
-[new-issue]: https://github.com/tweag/<project>/issues/new
+[new-issue]: https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue
 
 ## Code
 
