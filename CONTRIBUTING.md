@@ -2,7 +2,7 @@
 
 ## Bug Reports
 
-Please [open an issue][new-issue].
+Please open an issue.
 
 The more detailed your report, the faster it can be resolved. Once the
 bug has been resolved, the person responsible will tag the issue as
@@ -10,8 +10,6 @@ _needs confirmation_ and assign the issue back to you. Once you have
 tested and confirmed that the issue is resolved, close the issue. If
 you are not a member of the project, you will be asked for
 confirmation and we will close it.
-
-[new-issue]: https://github.com/tweag/<project>/issues/new
 
 ## Code
 
