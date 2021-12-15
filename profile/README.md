@@ -3,7 +3,8 @@
 ![Scale your engineering power](./banner.jpg)
 
 At Tweag we love using open source methods and research ideas to
-improve software quality and reliability. You might have seen some of
+improve software quality and reliability. We are big on composable
+software: functional, typed, immutable. You might have seen some of
 our work in your own favourite technical community, or read some of
 our [articles](https://tweag.io/blog).
 
