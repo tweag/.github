@@ -1,6 +1,6 @@
 ## Hello from the Tweag team!
 
-![Scale your engineering power](./banner.jpg)
+[![Scale your engineering power](/profile/banner.jpg)](https://tweag.io/)
 
 At Tweag we love using open source methods and research ideas to
 improve software quality and reliability. We are big on composable
